@@ -4,7 +4,7 @@ I am currently a AWS re/Start trainee at TechTalent Academy. Here i am developin
 
 :mailbox_with_no_mail: How you can reach me!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jordan_McCalla-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-mccalla/) [![Mail Badge](https://img.shields.io/badge/-Jordanmcc123-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jordanmccalla123@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Jordan_McCalla-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-mccalla-563797211) [![Mail Badge](https://img.shields.io/badge/-Jordanmcc123-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jordanmccalla123@hotmail.com)
 
 Here are some ideas to get you started:
 

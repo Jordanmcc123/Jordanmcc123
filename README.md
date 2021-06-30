@@ -2,6 +2,8 @@
 
 I am currently a AWS re/Start trainee at TechTalent Academy. Here i am developing my cloud computing knowledge and AWS skills, alongisde learning the basics to multiple programming languages.  Outside of the course i am continuing to work on my coding skills through small projects and online tutorials. some of which can be seen in my repositories! Please feel free to have a look 😁
 
+Have a look at my digital CV hosted on Github pages: [Digital CV](https://jordanmcc123.github.io/)
+
 :mailbox_with_no_mail: How you can reach me!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jordan_McCalla-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-mccalla-563797211) [![Mail Badge](https://img.shields.io/badge/-Jordanmcc123-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jordanmccalla123@hotmail.com)

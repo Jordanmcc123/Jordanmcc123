@@ -1,6 +1,6 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> and welcome to my page, I am Jordan McCalla!
 
-I am currently a AWS re/Start trainee at TechTalent Academy. Here i am developing my cloud computing knowledge and AWS skills, alongisde learning the basics to multiple programming languages.  Outside of the course i am continuing to work on my coding skills through small projects and online tutorials.
+I am currently a AWS re/Start trainee at TechTalent Academy. Here i am developing my cloud computing knowledge and AWS skills, alongisde learning the basics to multiple programming languages.  Outside of the course i am continuing to work on my coding skills through small projects and online tutorials. some of which can be seen in my repositories! Please feel free to have a look 😁
 
 :mailbox_with_no_mail: How you can reach me!
 

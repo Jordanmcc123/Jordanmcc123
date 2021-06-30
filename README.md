@@ -6,10 +6,9 @@ I am currently a AWS re/Start trainee at TechTalent Academy. Here i am developin
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jordan_McCalla-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-mccalla-563797211) [![Mail Badge](https://img.shields.io/badge/-Jordanmcc123-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jordanmccalla123@hotmail.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on AWS
-- 🌱 I’m currently learning Linux and Pyhton 
+- 🔭 I’m currently working on AWS and gaining AWS certified practioner certificate.
+- 🌱 I’m currently learning Linux, Pyhton, and a range of cloud computing subjects
 - 🤔 I’m looking for help with any small projects to help develope my coding skills
 - 💬 Ask me about anything!
 - 📫 How to reach me: see links above :point_up:
